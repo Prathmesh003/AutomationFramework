@@ -22,6 +22,6 @@ public class AssertionInTestng {
 		Reporter.log("verify home page title",true);
 		Reporter.log("create user",true);
 		Reporter.log("create contact",true);
-		softAssert.assertAll();
+		//dfjfgj softAssert.assertAll();
   }
 }
